@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Редакторы
+*~
+*.swp
+*.swo
+
+# Черновики
+*_draft.md
+temp_*
